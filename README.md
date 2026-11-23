@@ -42,8 +42,6 @@ For the background reading, we used published articles, journals and reports.
 
 ## How we cleaned the data
 
->  _Edit this section to match exactly what your team did._
-
 Google Forms gives you a messy export, so before analysing anything we:
 
 1. Downloaded the responses as a CSV/Excel file.
