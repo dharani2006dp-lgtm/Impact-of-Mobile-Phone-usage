@@ -60,6 +60,9 @@ Google Forms gives you a messy export, so before analysing anything we:
 |------|------|
 | Collecting responses | Google Forms |
 | Storing and tidying data | Microsoft Excel |
+| Cleaning and transforming data | Power BI (Power Query) |
+| Tables, charts and dashboards | Power BI |
+| Statistical tests (chi-square, ANOVA) | Microsoft Excel (Data Analysis ToolPak), update if you used something else |
 | Writing the report | Microsoft Word |
 | Sharing the project | Git and GitHub |
 
