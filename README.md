@@ -62,9 +62,6 @@ Google Forms gives you a messy export, so before analysing anything we:
 |------|------|
 | Collecting responses | Google Forms |
 | Storing and tidying data | Microsoft Excel |
-| Cleaning and tables | Python (pandas) |
-| Charts | Python (matplotlib) |
-| Statistical tests | Python (scipy / statsmodels, update if different) |
 | Writing the report | Microsoft Word |
 | Sharing the project | Git and GitHub |
 
