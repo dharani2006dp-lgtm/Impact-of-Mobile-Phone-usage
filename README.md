@@ -44,13 +44,12 @@ For the background reading, we used published articles, journals and reports.
 
 Google Forms gives you a messy export, so before analysing anything we:
 
-1. Downloaded the responses as a CSV/Excel file.
+1. Downloaded the responses as a Excel file.
 2. Removed blank, incomplete or duplicate submissions, which left 464 valid responses.
 3. Fixed inconsistent labels (spacing, capital letters, small spelling differences) so each answer appeared in only one form.
 4. Left unanswered questions blank instead of guessing. That's why a few tables show a different number of responses (for example, 463 for checking frequency and 352 for main distraction).
 5. Dropped the "Not Applicable" CGPA answers (for example, students who don't have a CGPA yet) from the CGPA tests, leaving 401 responses there.
 6. Turned answers into numbers where needed: Likert answers became 1–5, and CGPA bands became their midpoints (70–80% became 75) so we could run ANOVA.
-7. Kept the dataset anonymous. No names, emails or phone numbers.
 
 ---
 
