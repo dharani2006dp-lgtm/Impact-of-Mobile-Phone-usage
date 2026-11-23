@@ -159,11 +159,6 @@ jupyter notebook notebooks/analysis.ipynb
 
 ---
 
-## References
-
-- Kothari, C. R., *Research Methodology: Methods and Techniques*, New Age International Publishers.
-- _(Add your literature-survey references here.)_
-
 ## Thank you
 
 To our guide, our Head of Department and faculty, everyone who filled in the questionnaire, and our families and friends for the support.
